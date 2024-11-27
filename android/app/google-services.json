@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391211623188",
+    "project_id": "taxxi-8f2f6",
+    "storage_bucket": "taxxi-8f2f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391211623188:android:3760c060076e2c39039801",
+        "android_client_info": {
+          "package_name": "com.example.taxxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2R7EGWEn3kM2gppgnCieessQxnnTG2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
