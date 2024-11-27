@@ -1,0 +1,6 @@
+create firebase project in console of firebase
+when creating project ,add firestore databse,go to flutter installation firebase in logo of flutter
+run cmd comme administrateur and run : npm install -g firebase-tools
+firebase login
+firebase init ===> in cmd of project
+and faire comme in ui of installation flutter firebase
